@@ -1,0 +1,26 @@
+# Practice and temporary files
+practice-repo/
+my-first-repo/
+my-first-project/
+branch-practice/
+rebase-practice/
+interactive-rebase/
+my-website/
+
+# User-specific progress tracking
+.progress-local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
